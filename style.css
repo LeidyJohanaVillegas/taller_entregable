@@ -1,7 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #c9daf3;
     text-align: center;
+}
+.container{
+    background-image: url(/img/repuestos.png);
+    background-repeat: repeat;
+    max-width: fit-content;
 }
 table {
     width: 80%;
