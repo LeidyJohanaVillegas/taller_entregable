@@ -7,6 +7,7 @@ body {
     background-image: url(/img/repuestos.png);
     background-repeat: repeat;
     max-width: fit-content;
+    padding: 1px;
 }
 table {
     width: 80%;
